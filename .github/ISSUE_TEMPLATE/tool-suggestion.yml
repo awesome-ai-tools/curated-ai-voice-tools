@@ -1,0 +1,68 @@
+name: Tool Suggestion
+description: Suggest a new AI voice or audio tool to add to the list
+title: "[Tool] "
+labels: ["tool-suggestion"]
+body:
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool Name
+      description: The name of the AI voice/audio tool
+      placeholder: e.g., ElevenLabs
+    validations:
+      required: true
+  - type: input
+    id: tool-url
+    attributes:
+      label: Tool URL
+      description: Official website or repository URL
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category does this tool belong to?
+      options:
+        - Text-to-Speech (TTS)
+        - Speech-to-Text (STT)
+        - Voice Cloning
+        - AI Music Generation
+        - Audio Enhancement
+        - Voice Assistants & APIs
+        - Podcast & Audio Tools
+        - Sound Effects & Foley
+        - Real-time Voice
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing Model
+      description: How is the tool priced?
+      options:
+        - Open Source
+        - Commercial
+        - Freemium
+        - Free
+        - Research
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of what the tool does (1-2 sentences)
+      placeholder: Describe the tool's main features and capabilities
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should this tool be included?
+      description: Explain why this tool deserves to be on the curated list
+      placeholder: e.g., It's widely used, has unique features, etc.
+    validations:
+      required: false
