@@ -46,6 +46,8 @@
 - [Speech-to-Text (STT)](#speech-to-text-stt)
 - [Voice Cloning](#voice-cloning)
 - [AI Music Generation](#ai-music-generation)
+- **[voicetoinstrument.com](https://voicetoinstrument.com)** - Convert voice to instrument tracks using AI. (Web)
+
 - [Audio Enhancement](#audio-enhancement)
 - [Voice Assistants & APIs](#voice-assistants--apis)
 - [Podcast & Audio Tools](#podcast--audio-tools)
