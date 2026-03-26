@@ -1,0 +1,36 @@
+name: Broken Link Report
+description: Report a broken or outdated link
+title: "[Broken Link] "
+labels: ["broken-link"]
+body:
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool Name
+      description: The name of the tool with the broken link
+      placeholder: e.g., ElevenLabs
+    validations:
+      required: true
+  - type: input
+    id: broken-url
+    attributes:
+      label: Broken URL
+      description: The URL that is broken or outdated
+      placeholder: https://example.com/broken
+    validations:
+      required: true
+  - type: input
+    id: correct-url
+    attributes:
+      label: Correct URL (if known)
+      description: The updated or correct URL, if you know it
+      placeholder: https://example.com/correct
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Any additional information about the broken link
+    validations:
+      required: false
