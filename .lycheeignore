@@ -1,0 +1,9 @@
+# Ignore URLs that require authentication or are rate-limited
+https://platform.openai.com/.*
+https://cloud.google.com/.*
+https://azure.microsoft.com/.*
+https://aws.amazon.com/.*
+https://www.nvidia.com/.*
+https://google-research.github.io/.*
+https://dolby.io/.*
+https://hello.podium.page/.*
