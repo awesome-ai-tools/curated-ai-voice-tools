@@ -84,6 +84,7 @@ Tools that transcribe spoken audio into text using AI.
 
 - **[OpenAI Whisper](https://github.com/openai/whisper)** - Open-source automatic speech recognition model trained on 680,000 hours of multilingual data. (Open Source)
 - **[Deepgram](https://deepgram.com/)** - Enterprise speech recognition platform with real-time transcription, high accuracy, and diarization. (Commercial / Free Tier)
+- **[DictaFlow](https://dictaflow.io)** - AI dictation tool that types into any app with a text cursor — Windows, Mac, iPhone, and Android via Telegram. Supports Citrix/RDP typing, mid-sentence voice correction, custom vocabulary, 95-98% accuracy. $7/mo with free tier. (Commercial / Freemium)
 - **[AssemblyAI](https://www.assemblyai.com/)** - AI-powered speech-to-text API with speaker diarization, content moderation, and summarization. (Commercial / Free Tier)
 - **[Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text)** - Google's speech recognition supporting 125+ languages with real-time streaming and batch processing. (Commercial / Free Tier)
 - **[Azure Speech-to-Text](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text)** - Microsoft's speech recognition with real-time and batch transcription, custom models, and pronunciation assessment. (Commercial / Free Tier)
