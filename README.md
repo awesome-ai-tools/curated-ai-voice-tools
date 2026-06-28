@@ -147,6 +147,8 @@ Tools that improve audio quality by removing noise, enhancing clarity, or upscal
 
 Platforms and APIs for building voice-enabled applications and conversational AI.
 
+
+- **[Hermes](https://buildwithhermes.com/)** - White-label AI voice agent platform built for agencies. Native CRM, campaign orchestration, telephony, and transparent usage billing in one system under your own brand. Plans from $149/month.
 - **[Vapi](https://vapi.ai/)** - Platform for building, testing, and deploying AI voice agents with real-time conversation capabilities. (Commercial / Free Tier)
 - **[Bland AI](https://www.bland.ai/)** - Enterprise AI phone calling platform for building automated voice agents at scale. (Commercial)
 - **[Retell AI](https://www.retellai.com/)** - Build and deploy AI voice agents with natural-sounding conversations and low latency. (Commercial / Free Tier)
