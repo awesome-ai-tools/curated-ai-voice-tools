@@ -61,6 +61,7 @@
 Tools that convert text into natural-sounding speech using AI.
 
 - **[ElevenLabs](https://elevenlabs.io/)** - Industry-leading AI voice synthesis with ultra-realistic voices, voice cloning, and multilingual support. (Commercial / Freemium)
+- **[RunAPI ElevenLabs SDK](https://github.com/runapi-ai/elevenlabs-sdk)** - Multi-language SDK for building ElevenLabs text-to-speech and voice workflows through RunAPI. (Open Source)
 - **[OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech)** - High-quality text-to-speech API from OpenAI with six natural-sounding voices and two model variants. (Commercial)
 - **[Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech)** - Google's neural network-powered TTS with 220+ voices across 40+ languages. (Commercial / Free Tier)
 - **[Amazon Polly](https://aws.amazon.com/polly/)** - AWS service that turns text into lifelike speech with neural and standard voices in dozens of languages. (Commercial / Free Tier)
