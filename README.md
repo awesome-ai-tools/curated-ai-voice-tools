@@ -157,6 +157,7 @@ Platforms and APIs for building voice-enabled applications and conversational AI
 - **[Cartesia](https://cartesia.ai/)** - Ultra-fast voice API with streaming speech synthesis under 100ms latency for real-time applications. (Commercial / Free Tier)
 - **[Pipecat](https://github.com/pipecat-ai/pipecat)** - Open-source framework for building voice and multimodal conversational AI agents. (Open Source)
 - **[Deepgram Aura](https://deepgram.com/aura)** - Text-to-speech API optimized for real-time AI agent conversations with natural-sounding voices. (Commercial / Free Tier)
+- **[Kalyvox](https://kalyvox.ai/en/ai-answering-service)** - AI receptionist for SMBs that answers inbound calls, qualifies callers, books appointments, and routes or transfers calls. (Commercial)
 
 ## Podcast & Audio Tools
 
