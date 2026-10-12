@@ -143,6 +143,8 @@ Tools that improve audio quality by removing noise, enhancing clarity, or upscal
 - **[Audo Studio](https://audo.ai/)** - AI-powered audio cleaning tool that removes noise and enhances speech with one click. (Freemium)
 - **[Dolby.io Enhance](https://dolby.io/products/enhance/)** - Professional audio enhancement API for noise reduction, loudness correction, and speech isolation. (Commercial / Free Tier)
 
+- **[QuietTake Noise Remover](https://noiseremover.site/)** - Browser-local RNNoise/WASM speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export, requiring no account or audio upload, for files up to 50 MB and five minutes. (Free)
+
 ## Voice Assistants & APIs
 
 Platforms and APIs for building voice-enabled applications and conversational AI.
