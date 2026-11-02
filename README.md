@@ -142,6 +142,7 @@ Tools that improve audio quality by removing noise, enhancing clarity, or upscal
 - **[AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)** - Versatile audio super-resolution model that upscales any audio to high-resolution 48kHz. (Open Source)
 - **[Audo Studio](https://audo.ai/)** - AI-powered audio cleaning tool that removes noise and enhances speech with one click. (Freemium)
 - **[Dolby.io Enhance](https://dolby.io/products/enhance/)** - Professional audio enhancement API for noise reduction, loudness correction, and speech isolation. (Commercial / Free Tier)
+- **[MusiCraft](https://www.musicraft.ai/features/stem-splitter)** - AI stem separation tool that splits songs into vocals, drums, bass, and other instrument tracks. (Freemium)
 
 ## Voice Assistants & APIs
 
