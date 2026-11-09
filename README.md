@@ -172,7 +172,7 @@ AI-powered tools for podcast production, editing, and distribution.
 - **[Wondercraft](https://www.wondercraft.ai/)** - AI podcast creation tool that turns scripts into fully produced podcast episodes with realistic voices. (Commercial)
 - **[Podium](https://hello.podium.page/)** - AI-powered podcast show notes, transcripts, and highlight generators. (Freemium)
 - **[Castmagic](https://www.castmagic.io/)** - AI tool that generates transcripts, show notes, summaries, and social posts from podcast audio. (Commercial)
-- **[Arcmira: YouTube Transcript Search](https://arcmira.com)** - Searches indexed YouTube podcast transcripts for timestamped quotes and speaker appearances, with [API and MCP access](https://arcmira.com/docs). (Freemium)
+- **[Arcmira: YouTube Transcript Search](https://arcmira.com)** - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API and MCP access](https://arcmira.com/docs). (Freemium)
 
 ## Sound Effects & Foley
 
