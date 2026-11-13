@@ -128,6 +128,7 @@ Tools that compose or generate music using AI models.
 - **[JEN-1](https://www.jenmusic.ai/)** - Universal high-fidelity music generation model with text-guided capabilities. (Research)
 - **[Beatoven.ai](https://www.beatoven.ai/)** - AI music generation tool that composes mood-based, royalty-free background music for content. (Freemium)
 - **[Loudly](https://www.loudly.com/)** - AI music generator creating royalty-free tracks with customizable arrangement and duration. (Freemium)
+- **[Tunenoodle](https://tunenoodle.com/)** - AI music generator that turns a text idea, lyrics or a hummed melody into a song, plus 30+ free browser audio tools. (Freemium)
 
 ## Audio Enhancement
 
