@@ -141,6 +141,7 @@ Tools that improve audio quality by removing noise, enhancing clarity, or upscal
 - **[Resemble Enhance](https://github.com/resemble-ai/resemble-enhance)** - Open-source AI speech enhancement combining denoising and super-resolution for clearer audio. (Open Source)
 - **[AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)** - Versatile audio super-resolution model that upscales any audio to high-resolution 48kHz. (Open Source)
 - **[Audo Studio](https://audo.ai/)** - AI-powered audio cleaning tool that removes noise and enhances speech with one click. (Freemium)
+- **[Remove Noise](https://www.removenoise.io/)** - Browser background noise remover for audio and video up to 60 seconds: denoises speech, keeps the picture on video and replaces only the soundtrack, and lets you compare the cleaned take with the original before downloading. (Freemium)
 - **[Dolby.io Enhance](https://dolby.io/products/enhance/)** - Professional audio enhancement API for noise reduction, loudness correction, and speech isolation. (Commercial / Free Tier)
 
 ## Voice Assistants & APIs
